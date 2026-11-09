@@ -18,8 +18,8 @@ Já passei por suporte técnico (onde aprendi a ouvir o usuário), por engenhari
   <img src="https://skillicons.dev/icons?i=python,flask,fastapi,postgres,mysql,elasticsearch,docker,azure,git,html,css,java&theme=dark" alt="Tecnologias">
 </p>
 
-**IA:** Claude (skills e agentes) · Azure OpenAI · Gemini · Mistral · engenharia de prompt
-**Automação:** Apache Airflow · n8n · robôs agendados em servidor
+- **IA:** Claude (skills e agentes) · Azure OpenAI · Gemini · Mistral · engenharia de prompt
+- **Automação:** Apache Airflow · n8n · robôs agendados em servidor
 
 ### `> mapa de projetos`
 
