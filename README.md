@@ -27,10 +27,11 @@ Já passei por suporte técnico (onde aprendi a ouvir o usuário), por engenhari
 |---|---|---|
 | `A` | [**NomiBot**](https://github.com/alesncar/NomiBot) | Lê as publicações judiciais todo dia, acha as nomeações periciais e manda o boletim por e-mail. |
 | `A` | [**Apuama**](https://github.com/alesncar/Apuama) | Separa caixas de e-mail por categoria com um modelo de linguagem, a cada 15 minutos. |
+| `A` | [**Sumaúma**](https://github.com/alesncar/Sumauma) | Painel de controladoria: coleta diária da carteira de processos, prioridades, entregas e honorários. |
 | `B` | [**Igapó**](https://github.com/alesncar/Igapo) | Ecossistema de skills de IA que cobre a rotina de uma perícia, da nomeação ao laudo. |
 | `B` | [**ocr_pdf_automation**](https://github.com/alesncar/ocr_pdf_automation) | OCR de PDF com Azure e extração de campos em JSON com LLM. |
 
-> NomiBot, Apuama e Igapó são vitrines: o código de produção fica em repositório privado.
+> NomiBot, Apuama, Sumaúma e Igapó são vitrines: o código de produção fica em repositório privado.
 
 ### `> fora do código`
 
